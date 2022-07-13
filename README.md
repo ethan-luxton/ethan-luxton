@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethan-luxton
 - 👀 I’m interested in learning all there is to know about coding.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, MERN, and C#/Unity scripting. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and C#/Unity scripting. 
 - 📫 How to reach me:
 - @ethan-luxton/GitHub
 - @ethancl21/Twitter
