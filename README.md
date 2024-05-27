@@ -1,7 +1,7 @@
 <p align="center">
 
 <a align="center" href="https://www.linkedin.com/in/ethan-luxton/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a align="center" href="mailto:luxtonethan@hotmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/hotmail.png"></a>&nbsp;&nbsp;
+
 </p>
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
