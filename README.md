@@ -6,10 +6,6 @@
 
 <h2 align="center">Welcome to my GitHub! 
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=ethan-luxton.ethan-luxton" width="110px">
-</p>
-
 <h3 align="center">👨‍💻 Hello! I'm Ethan. 👨‍💻</h3>
 
 I am a finance professional with a background in marketing and public relations. After working in retail banking and wealth management, I decided to pursue my passion for technology and transition into the software development field.
