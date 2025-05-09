@@ -16,11 +16,11 @@
 
 </br>
 
-<a href="https://github.com/ethan-luxton/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethan-luxton&show_icons=true&theme=midnight-purple&card_width=800" />
+<a align="center" href="https://github.com/ethan-luxton/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=ethan-luxton&show_icons=true&theme=midnight-purple&card_width=800" />
 </a>
-<a href="https://github.com/ethan-luxton/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-luxton&theme=midnight-purple&card_width=800&langs_count=10">
+<a align="center" href="https://github.com/ethan-luxton/github-readme-stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-luxton&theme=midnight-purple&card_width=800&langs_count=10">
 
 </a>
 
