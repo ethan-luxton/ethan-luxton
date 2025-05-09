@@ -10,7 +10,8 @@
 
 I am a finance professional with a background in marketing and public relations, with a passion for technology.
 
-Since the age of 13, I have been honing my skills in programming languages like C#, Java, C++, JavaScript, and Python. My current objective is to contribute to the technologies that shape our everyday lives, from operating systems to full-stack web development.
+💻 Tech stack: JavaScript | Python | React | Node | MongoDB | Linux | Git
+📍 Based in Washington | Always learning | Open to collaboration
 
 </br>
 
